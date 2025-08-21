@@ -30,6 +30,12 @@
   2. Open index.html in any modern web browser.
   3. Start calculating! 🎉
 
+🛠️ Tech Stack
+
+   HTML – Structure
+   CSS – Styling
+   JavaScript – Functionality
+
 How It Works
 
   1. Capture input via button presses or key events.
