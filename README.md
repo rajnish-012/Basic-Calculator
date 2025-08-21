@@ -1,50 +1,63 @@
-🧮 Basic Calculator
+# 🧮 Basic Calculator
 
-  A simple Basic Calculator built using HTML, CSS, and JavaScript.
-  It performs standard arithmetic operations such as addition, subtraction, multiplication, and division, with a clean and minimal UI.
+A simple **Basic Calculator** built using **HTML, CSS, and JavaScript**.  
+It performs standard arithmetic operations such as addition, subtraction, multiplication, and division, with a clean and minimal UI.
 
-✨ Features
+---
 
-  ➕ Addition
-  ➖ Subtraction
-  ✖️ Multiplication
-  ➗ Division
-  🧹 Clear display (C)
-  ⌫ Delete last entry (DEL)
-  Supports decimal numbers
-  Responsive and easy-to-use interface
+## 🌐 Live Demo
 
-📂 Project Structure
-  
-  📁 Basic Calculator
-    ┣ 📄 index.html   # Main HTML structure
-    ┣ 📄 style.css    # Calculator styling
-    ┗ 📄 script.js    # Calculator logic (functions for operations)
+👉 [Try the Calculator here](https://basic-calculator-rnyk.vercel.app)
 
-🚀 How to Run
+---
 
-  1. Clone this repository:
-      git clone https://github.com/rajnish-012/Basic-Calculator.git
-      cd Basic-Calculator
+## ✨ Features
 
-  2. Open index.html in any modern web browser.
-  3. Start calculating! 🎉
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- 🧹 Clear display (`C`)  
+- ⌫ Delete last entry (`DEL`)  
+- Supports decimal numbers  
+- Responsive and easy-to-use interface  
+
+---
+
+## 📂 Project Structure
+
+📁 Basic Calculator
+┣ 📄 index.html # Main HTML structure
+┣ 📄 style.css # Calculator styling
+┗ 📄 script.js # Calculator logic (functions for operations)
+
+
+---
+
+## 🚀 Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/rajnish-012/Basic-Calculator.git
+   cd Basic-Calculator
+2. Open index.html in your browser.
+3. Start calculating! 🎉
 
 🛠️ Tech Stack
 
-   HTML – Structure
-   CSS – Styling
-   JavaScript – Functionality
+HTML – Structure
+CSS – Styling
+JavaScript – Functionality
 
-How It Works
+📜 License
+This project is licensed under the MIT License – feel free to use and modify it.
 
-  1. Capture input via button presses or key events.
-  2. Update display dynamically as users enter numbers or operations.
-  3. Evaluate expressions using JavaScript logic, with checks to prevent invalid states (e.g., division by zero).
-  4. Reset or clear inputs to return to the initial state when needed.
+🤝 Contribution
 
-Why This Project?
+Contributions are welcome!
+You can improve the project by:
 
-  1. Ideal for beginners learning DOM manipulation, event handling, and UI feedback.
-  2. Demonstrates best practices in structuring a small but functional web app.
-  3. A solid foundation to build upon with extended features like advanced operations, history tracking, or styling enhancements.
+Adding new operations (%, square root, etc.)
+Improving styling (themes, dark mode)
+Enhancing accessibility (keyboard shortcuts, ARIA support)
+Made with ❤️ by Rajnish Kumar
